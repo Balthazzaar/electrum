@@ -1,1 +1,1 @@
-# electrum
+Intrigued by the blockchain tech
